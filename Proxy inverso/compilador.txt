@@ -1,0 +1,1 @@
+git clone https://github.com/Hiroshi1228/prestamosFEIUV-Proxy && cd prestamosFEIUV-Proxy && docker-compose up
